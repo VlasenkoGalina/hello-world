@@ -1,3 +1,3 @@
 # hello-world
-что-то первое на github
-knlkmm ftu g. 
+что-то первое на gi
+
